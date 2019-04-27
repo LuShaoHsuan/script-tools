@@ -1,6 +1,6 @@
 from google.cloud import bigquery
 import time
-# import configparser
+import configparser
 
 
 def main():
